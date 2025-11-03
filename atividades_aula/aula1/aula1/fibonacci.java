@@ -1,6 +1,6 @@
 //Programa que imprime os 30 primeiros elementos da sequência de Fibonacci
 
-package atividades_aula;
+package atividades_aula.aula1.aula1;
 
 public class fibonacci {
     public static void main(String[] args) {
